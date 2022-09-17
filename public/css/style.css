@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.about {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.facebook {
+  font-size: 28px;
+}
+
+.instagram {
+  font-size: 28px;
+  color: #fd1d1d;
+}
+
+.whatsapp {
+  font-size: 28px;
+  color: #128c7e;
+}
+.tiktok {
+  font-size: 28px;
+}
